@@ -409,8 +409,12 @@ header nav .items{
 	color: gray;
 	font-weight: bold;
 }
-.footer .right span {
+.footer .right a i{
 	margin-right: 15px;
 	font-size: 40px;
 	color: gray;
+}
+
+.footer .right a i:hover{
+	color: #000;
 }
