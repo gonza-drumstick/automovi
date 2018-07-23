@@ -112,6 +112,7 @@ header nav .items{
 	justify-content: center;
 	text-align: center;
 	color: gray;
+	background-color: #f3f3f3;
 }
 
 .why-us{
@@ -145,7 +146,7 @@ header nav .items{
 	margin-top: 15px;
 }
 
-/*copiado de udemy*/
+/*copiado de udemy
 
 
 
@@ -225,16 +226,16 @@ header nav .items{
 		@media only screen and (max-width: 400px){
 			.antes, .despues, .numero{ font-size: 10px; }
 		}
-		/*termina slideshow udemy*/
+		termina slideshow udemy*/
 
-.section-5{
+/*.section-5{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	height:550px;
 	background-color: #F3F1F1;
-}
+}*/
 
 .texto{
 	display: flex;
@@ -312,6 +313,7 @@ header nav .items{
 .section-8{
 	display: flex;
 	justify-content: center;
+	background-color: #f3f3f3;
 }
 .left, .right{
 	width: 35%;
